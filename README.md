@@ -1,4 +1,5 @@
 # nfl-eda
+Exploratory data analysis of NFL player statistics for fantasy football player prediction.
 
 ## Files
 * basic_stats
