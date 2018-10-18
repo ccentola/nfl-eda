@@ -25,3 +25,7 @@ Exploratory data analysis of NFL player statistics for fantasy football player p
 * create skill player scoring model
 * apply fantasy scoring model to skill player datasets
 * analyze team win/loss probability
+
+## Problems
+* data is not current
+* NFL data API's are not cheap; need to create a way to manually gather data
