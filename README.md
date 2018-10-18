@@ -20,3 +20,8 @@ Exploratory data analysis of NFL player statistics for fantasy football player p
 * focus on skill positions (maybe aggregate defense?)
 * focus on active players only
 * analyze draft stats, game logs, historical fantasy data
+
+## To-Do
+* create skill player scoring model
+* apply fantasy scoring model to skill player datasets
+* analyze team win/loss probability
